@@ -1,5 +1,3 @@
-import "../src/css/Deneme.css";
-
 function yazdir<T>(array: T[]): void {
   array.forEach((eleman) => console.log(eleman));
 }
